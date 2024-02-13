@@ -19,5 +19,8 @@ https://pcs.sytes.net/iplist.txt
 
 https://pcs.sytes.net/iplist-pcsnet.txt
 
+# Wordpress BlockList
+
+https://perc.ddns.net/ip.txt
 
 
