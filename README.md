@@ -19,7 +19,7 @@ https://pcs.sytes.net/iplist.txt
 
 https://pcs.sytes.net/iplist-pcsnet.txt
 
-# Wordpress BlockList
+# Drupal/Joomla/Wordpress CMS BlockList
 
 https://perc.ddns.net/ip.txt
 
