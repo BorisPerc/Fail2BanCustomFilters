@@ -3,7 +3,7 @@ Fail2Ban FireWall Custom Filters
 
 https://github.com/fail2ban/fail2ban
 
-# Fail2Ban Custom filters BadBots update 2023, wordpress, ninjafirewall, media server and media share
+# Fail2Ban Custom filters BadBots last update 1/1/2024, wordpress, ninjafirewall, media server and media share
 
 Unpack fail2ban.zip on your desktop PC. If you use Wordpress enable extra filters same for media server
 
