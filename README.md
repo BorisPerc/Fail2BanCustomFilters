@@ -13,7 +13,7 @@ Overwrite original installed apache-badbots.conf with this new one. If you use m
 
 Correct if you use MalTrail or Malware Trafic Detection System in maltrail.conf your hostname and IP of your server for log maltrail.
 
-https://pcs.sytes.net:88/fail2ban
+https://pcsnet.mywire.org:3333/fail2ban
 
 https://pcs.sytes.net/iplist.txt
 
@@ -21,6 +21,6 @@ https://pcs.sytes.net/iplist-pcsnet.txt
 
 # Drupal/Joomla/Wordpress CMS BlockList
 
-https://perc.ddns.net/ip.txt
+https://perc.ddns.net/iplist-cms.txt
 
 
